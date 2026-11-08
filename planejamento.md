@@ -8,7 +8,7 @@
 
 | Onde fica o quê | Link |
 |---|---|
-| Projeto do TCC1 (texto aprovado) | `Projeto_TCC1_RITCHIE.docx` |
+| Projeto do TCC1 (texto aprovado) | [Google Docs, Projeto_TCC1_RITCHIE](https://docs.google.com/document/d/1gp13KlLBjaprv9aDZ6wHBX-acM0ZZ8s-9ngL824kSEU/edit?usp=sharing) |
 | TCC2 (texto, escrito ao longo das etapas) | [Google Docs, TCC_ritchie_utfpr](https://docs.google.com/document/d/1P9D4LkLHdXI7kn__TAf4QvMt8qKqxE0d4CG8fD0DBH8/edit?usp=sharing) |
 | Código, dados e notebooks | `github.com/fcoliveira-utfpr/spi_oni_pr` |
 | Caderno de aprendizagem (antes dos notebooks do TCC) | [00_aprendizagem no Colab](https://colab.research.google.com/github/fcoliveira-utfpr/spi_oni_pr/blob/main/notebooks/00_aprendizagem.ipynb) |
