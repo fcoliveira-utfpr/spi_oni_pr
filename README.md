@@ -73,7 +73,8 @@ spi_oni_pr/
 | 7 | [07_spi_x_enos](https://colab.research.google.com/github/fcoliveira-utfpr/spi_oni_pr/blob/main/notebooks/07_spi_x_enos.ipynb) | Relação SPI × ENOS: visual e numérica |
 | 8 | [08_figuras_tcc](https://colab.research.google.com/github/fcoliveira-utfpr/spi_oni_pr/blob/main/notebooks/08_figuras_tcc.ipynb) | Figuras e tabelas finais em 300 dpi |
 
-Os notebooks estão sendo escritos; os links passam a funcionar à medida que cada um é publicado.
+Cada notebook grava seus resultados no Drive (`spi_oni_pr/resultados`); a partir do 05, cada um lê o que o anterior gravou.
+Rodando em sequência, os nove levam cerca de 10 minutos no Colab.
 
 O código dos notebooks é escrito da forma mais simples possível, para quem nunca programou: cada bloco tem uma
 explicação antes e comentários linha a linha. Os dados são lidos direto do GitHub, sem baixar nada:
